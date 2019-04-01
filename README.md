@@ -6,8 +6,8 @@ Swipe in any direction to control where your worm will go.
 Going off the edge of the screen will loop you back to the other side.
 
 ### Screenshots
-![ScreenShot](/app/src/main/assets/Screenshots/AppInterfaceStart.png)
-![ScreenShot](/app/src/main/assets/Screenshots/AppInterfaceGame.png)
+![ScreenShot](/Screenshots/AppInterfaceStart.png)
+![ScreenShot](/Screenshots/AppInterfaceGame.png)
 
 ### Works on
 The app is written in Swift 4 with SpriteKit, and should run on most devices running iOS 9 or later.
